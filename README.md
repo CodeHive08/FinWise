@@ -1,7 +1,7 @@
 # FinWise- Expense Tracker
 
 FinWise is a web application designed to help you manage your finances effectively. It provides a user-friendly interface to track your income and expenses, offering insights into your spending habits through visualizations. Additionally, it features an AI-powered travel planner to help you plan your trips within a budget.
-
+ 
 ## Features
 
 - **User Authentication:** Secure signup and login functionality.
